@@ -1,0 +1,19 @@
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+*.m4a
+*.opus
+
+# Executables
+*.exe
+goAudioExtractor
